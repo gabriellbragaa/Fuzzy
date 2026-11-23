@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Lê uma temperatura e imprime o centroide do controlador fuzzy."""
+#"""Lê uma temperatura e imprime o centroide do controlador fuzzy."""
 
 import argparse
 import sys
